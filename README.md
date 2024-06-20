@@ -5,4 +5,5 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 - [x] next/Image
 - [x] finish editing header n footer
 - [x] active navLink styling
+- [ ] dynamic routes (params for data fetching)
 - [ ] deploy (vercel)
