@@ -2,5 +2,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ##TODO
 
--[x] next/Image
--[] finish editing header n footer
+- [x] next/Image
+- [x] finish editing header n footer
+- [x] active navLink styling
+- [ ] deploy (vercel)
