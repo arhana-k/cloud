@@ -8,6 +8,6 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 - [x] dynamic routes (params for data fetching)
 - [x] more granular suspense component
 - [x] create post page
-- [ ] server actions for fetching data
+- [x] server actions for fetching data
 - [ ] add auth(w/ clerk)
 - [ ] deploy (vercel)
